@@ -1,0 +1,15 @@
+.weather-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.maxWidth {
+  display: flex;
+  width: 80%;
+}

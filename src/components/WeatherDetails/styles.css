@@ -1,0 +1,9 @@
+.containers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.table-container {
+  max-width: 350px;
+}
